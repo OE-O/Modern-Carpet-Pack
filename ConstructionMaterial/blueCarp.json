@@ -1,0 +1,16 @@
+{
+    "threadsafeName": "blueCarpet", 
+    "cost": -75.0,
+    "maxStackSize": 5, 
+    "WalkBuffSpeed": 0.05,
+    "ConstructionTime": 10,
+    "renderLayer": 0, 
+    "isIndoors": true,
+    "isWalkable": true, 
+    "isUtilities": false,
+    "canBeWarped": true,
+    "Sprite": "blueCarpet177772", 
+    "BitmaskedSprites": [],
+    "DisplayName": "Roll of Carpet",
+    "i18nKey": "samt.mats.carpet"
+  }
