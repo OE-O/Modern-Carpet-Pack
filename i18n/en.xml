@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<samt>
+    <modernCarpets>
+        <rough>
+            <blue>
+                <name>Rough Blue Carpet</name>
+                <description>This carpet has had its days, but still shines its lovely blue.</description>
+            </blue>
+            <green>
+                <name>Rough Green Carpet</name>
+                <description>The company is selling you its best leftover carpet, dyed in an alien green.</description>
+            </green>
+            <orange>
+                <name>Rough Orange Carpet</name>
+                <description>This carpet stinks of oranges...</description>
+            </orange>
+            <red>
+                <name>Rough Red Carpet</name>
+                <description>A murder scene took place in the making of this carpet.</description>
+            </red>
+        </rough>
+        <smooth>
+            <black>
+                <name>Smooth Black Carpet</name>
+                <description>Its so dark your shoes blend into it.</description>
+            </black>
+            <grey>
+                <name>Smooth Grey Carpet</name>
+                <description>The fiftieth shade of grey.</description>
+            </grey>
+            <white>
+                <name>Smooth White Carpet</name>
+                <description>Its so white, its whiter than a bundle of clouds.</description>
+            </white>
+        </smooth>
+    </modernCarpets>
+</samt>
