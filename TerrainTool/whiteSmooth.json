@@ -1,0 +1,24 @@
+{
+    "userVisible": true,
+    "displayOrder": 5,
+    "icon": "whiteSmooth",
+    "requiresIndoors": true,
+    "excludeWWF": false,
+    "requiresOutdoors": false,
+    "OnlyStraightLines": false,
+    "enableVisualEndpoints": false,
+    "Level2u": true,
+    "Level1u": true,
+    "Level0": true,
+    "Level1": true,
+    "Level2": true,
+    "PreReqTTLs": [],
+    "ConstructionMaterials": [
+      {
+        "name": "whiteSmooth"
+      }
+    ],
+    "_i18nNameKey": "OE-O.modernCarpets.smooth.white.name",
+    "_i18nDescKey": "OE-O.modernCarpets.smmoth.white.description",
+    "name": "Smooth White Carpet"
+}

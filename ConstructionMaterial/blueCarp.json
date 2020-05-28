@@ -1,5 +1,5 @@
 {
-    "threadsafeName": "blueCarpet", 
+    "threadsafeName": "blueCarp", 
     "cost": -75.0,
     "maxStackSize": 5, 
     "WalkBuffSpeed": 0.05,
@@ -12,5 +12,5 @@
     "Sprite": "blueCarpet177772", 
     "BitmaskedSprites": [],
     "DisplayName": "Roll of Carpet",
-    "i18nKey": "samt.mats.carpet"
-  }
+    "i18nKey": "OE-O.mats.carpet"
+}
