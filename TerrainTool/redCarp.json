@@ -1,0 +1,24 @@
+{
+    "userVisible": true,
+    "displayOrder": 5,
+    "icon": "redCarpet177772",
+    "requiresIndoors": true,
+    "excludeWWF": false,
+    "requiresOutdoors": false,
+    "OnlyStraightLines": false,
+    "enableVisualEndpoints": false,
+    "Level2u": true,
+    "Level1u": true,
+    "Level0": true,
+    "Level1": true,
+    "Level2": true,
+    "PreReqTTLs": [],
+    "ConstructionMaterials": [
+      {
+        "name": "redCarp"
+      }
+    ],
+    "_i18nNameKey": "OE-O.modernCarpets.rough.red.name",
+    "_i18nDescKey": "OE-O.modernCarpets.rough.red.description",
+    "name": "Rough Red Carpet"
+  }

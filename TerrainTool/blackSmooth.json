@@ -1,0 +1,24 @@
+OE-O{
+    "userVisible": true,
+    "displayOrder": 5,
+    "icon": "blackSmooth",
+    "requiresIndoors": true,
+    "excludeWWF": false,
+    "requiresOutdoors": false,
+    "OnlyStraightLines": false,
+    "enableVisualEndpoints": false,
+    "Level2u": true,
+    "Level1u": true,
+    "Level0": true,
+    "Level1": true,
+    "Level2": true,
+    "PreReqTTLs": [],
+    "ConstructionMaterials": [
+      {
+        "name": "blackSmooth"
+      }
+    ],
+    "_i18nNameKey": "OE-O.modernCarpets.smooth.black.name",
+    "_i18nDescKey": "OE-O.modernCarpets.smooth.black.description",
+    "name": "Smooth Black Carpet"
+  }
