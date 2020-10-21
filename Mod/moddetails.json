@@ -1,11 +1,12 @@
 {
     "Author":[
-       "SimAirport Modding Team"
+       "CyaCal",
+	   "NAL"
      ],
     "Description":"A bunch of modern carpets, inspired by the weird and wacky carpets of Singapore Changia Airport.",
     "MinRequiredVersion":"0001-01-01T00:00:00",
     "Dependencies":[],
-    "Build":86573,
-    "Version":"1.0",
-    "SteamId":0
+    "Build": 2015110514,
+    "Version": "1.0",
+    "SteamId": 0
  }
